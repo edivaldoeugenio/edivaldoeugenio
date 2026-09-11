@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Edivaldo Eugênio! 👋
 
-<!--
-**edivaldoeugenio/edivaldoeugenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou começando minha jornada no desenvolvimento de software e criando meus primeiros projetos para praticar e aprender.
+
+Tenho interesse em desenvolvimento web, tecnologia e aprendizado contínuo.
+
+## O que estou aprendendo
+
+- Desenvolvimento web
+- Git e GitHub
+- HTML e CSS
+- JavaScript
+- Criação e publicação de projetos
+
+## Meus projetos
+
+Em breve, este espaço terá meus projetos e experiências de aprendizado.
+
+## Contato
+
+- GitHub: [@edivaldoeugenio](https://github.com/edivaldoeugenio)
