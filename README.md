@@ -13,6 +13,7 @@ Aplicação web de catálogo de produtos e gestão administrativa, desenvolvida 
 - [Ver repositório](https://github.com/edivaldoeugenio/portfolio-web)
 
 ### Portfólio pessoal
+
 Página de apresentação profissional desenvolvida com HTML e CSS.
 
 - [Ver página](https://edivaldoeugenio.github.io/portfolio-apresentacao/)
